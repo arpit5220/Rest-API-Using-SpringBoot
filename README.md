@@ -1,4 +1,4 @@
-# Rest-API-Using-SpringBoot
+# Book Store Rest-API-Using-SpringBoot
 
 PostMan API Platform 
 
